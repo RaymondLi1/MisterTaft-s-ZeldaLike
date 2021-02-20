@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - breakable
+  - enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - Enemy Projectile
+  - Player Projectile
+  - Player
+  - Ground
+  - Breakable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Interactables
+    uniqueID: 367323025
+    locked: 0
+  - name: Breakable
+    uniqueID: 3519346027
+    locked: 0
+  - name: DeathEffect
+    uniqueID: 248638669
+    locked: 0
+  - name: Player
+    uniqueID: 3585465485
+    locked: 0
+  - name: OverPlayer
+    uniqueID: 412355015
+    locked: 0
+  - name: Text
+    uniqueID: 113723751
+    locked: 0

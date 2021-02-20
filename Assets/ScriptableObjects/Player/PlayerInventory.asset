@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f07fd0e3a039a3e4f9a99af76f490840, type: 3}
+  m_Name: PlayerInventory
+  m_EditorClassIdentifier: 
+  currentItem: {fileID: 0}
+  items:
+  - {fileID: 0}
+  - {fileID: 11400000, guid: ba35c207a694e4340872d3aa02cc81ab, type: 2}
+  numberOfKeys: 105
+  coins: 1015
+  maxMagic: 10
+  currentMagic: 10
